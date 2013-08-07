@@ -1,0 +1,37 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AAAPackageDev",
+		"ApacheConf.tmLanguage",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPick",
+		"ColorPicker",
+		"Display Functions (Java)",
+		"ExportHtml",
+		"HexViewer",
+		"HTML5",
+		"HTMLAttributes",
+		"jQuery",
+		"LESS",
+		"Neon Theme",
+		"Nodejs",
+		"Package Control",
+		"PersistentRegexHighlight",
+		"Print to HTML",
+		"Processing",
+		"Prolog",
+		"PythonTidy",
+		"QuickPrint",
+		"SideBarEnhancements",
+		"Smarty",
+		"Sublime-HTMLPrettify",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"SublimeJava",
+		"SublimeREPL",
+		"Tag",
+		"Terminal"
+	]
+}
